@@ -1,4 +1,4 @@
-  import string
+import string
 
 from random import *
 #startMenu
